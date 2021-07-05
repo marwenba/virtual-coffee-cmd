@@ -11,10 +11,10 @@ This Command Line Tool is built using the framework Micronaut and the Java 11 la
 
 The architecture of the main project is : 
 
- ├──main->java->asklepios->thinkit.
-                                  ├── models                  # where we are building the objects that we are working with
-                                  ├── services                # Contains custom functions and services used by this tool                      
-                                  └── Client.java             # The main script that runs the Tool and identify the command lines  
+ ├──main->java->asklepios->thinkit.<br/>
+ &nbsp;     &nbsp;           &nbsp;                 ├── models         &nbsp; &nbsp;          # where we are building the objects that we are working with<br/>
+ &nbsp;      &nbsp;     &nbsp;                        ├── services       &nbsp; &nbsp;          # Contains custom functions and services used by this tool                    
+ &nbsp;          &nbsp; &nbsp;                       └── Client.java     &nbsp; &nbsp;         # The main script that runs the Tool and identify the command lines  <br/>
 
 
 ***
